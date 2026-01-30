@@ -13,14 +13,14 @@ Hola, soy Andrea!
 
 ```
 -------------------------
-💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
-📚 Formación en programación, bases de datos y desarrollo de software
-📝 Gran interés en el desarrollo de aplicaciones, la lógica y la resolución de problemas
-🔭 Trabajando en proyectos académicos de programación y aplicaciones multiplataforma
-🌱 Aprendiendo sobre Python, Java, bases de datos y desarrollo web
-🌟 Lenguajes principales: Python, Java, HTML, CSS, JavaScript
-🚩 Interesada en el desarrollo de aplicaciones completas (front + back)
-💖 En una relación complicada con los bugs y los errores de compilación
+💻 Multiplatform Application Development (MAD) Student
+📚 Training in programming, databases, and software development
+📝 Strong interest in application development, logic, and problem-solving
+🔭 Working on academic programming projects and multiplatform applications
+🌱 Learning Python, Java, databases, and web development
+🌟 Main languages: Python, Java, HTML, CSS, JavaScript
+🚩 Interested in full application development (front + back end)
+💖 In a complicated relationship with bugs and compilation errors 😅
 ```
 
 <hr>
