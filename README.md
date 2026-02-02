@@ -1,4 +1,4 @@
-# Hello, I'm Andrea! ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# Hello, I'm Andrea! 👋
 
 ![Andrea](https://i.pinimg.com/736x/97/33/c0/9733c0a81e46e63b338a0ad8d7d1f768.jpg)
 
